@@ -6,7 +6,7 @@ Three approach steps were used in this project, which is _Gather_, _Assess_, and
 **Gather**; The wrangling process consists of gathering three datasets from different sources
 - The first dataset which was provided like a file at hand was in csv format named twitter_archive_enhanced.csv.
 - The second dataset is hosted on Udacity servers. Using the Url link provided by Udacity, I use the Requests library to make a request from the server and write the response texts to a file name image_predictions.tsv.
--The third file was extracting the `retweet count` and `favorite count` from Twitter API by the use of **Tweepy** which is an open-source Python package that gives you a very convenient way to access the Twitter API with Python.
+- The third file was extracting the `retweet count` and `favorite count` from Twitter API by the use of **Tweepy** which is an open-source Python package that gives you a very convenient way to access the Twitter API with Python.
 
 **Assess**: Visual and Programmatic assessment approach technique which is effective in spotting qualities and tidiness issues.
 
